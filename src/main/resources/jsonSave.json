@@ -1,0 +1,97 @@
+[ {
+  "id" : -4547078218441931686,
+  "source" : "The Lord of the Rings Api",
+  "timestamp" : "2026-09-29T14:31:16.258814400",
+  "data" : {
+    "docs" : [ {
+      "_id" : "5cd99d4bde30eff6ebccfc15",
+      "name" : "Frodo Baggins",
+      "wikiUrl" : "http://lotr.wikia.com//wiki/Frodo_Baggins",
+      "race" : "Hobbit",
+      "birth" : "22 September ,TA 2968",
+      "gender" : "Male",
+      "death" : "Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",
+      "hair" : "Brown",
+      "height" : "1.06m (3'6\")",
+      "realm" : null,
+      "spouse" : null
+    } ],
+    "total" : 1,
+    "limit" : 1000,
+    "offset" : 0,
+    "page" : 1,
+    "pages" : 1
+  }
+}, {
+  "id" : -5061608583150680594,
+  "source" : "The Lord of the Rings Api",
+  "timestamp" : "2026-09-29T14:31:26.858469700",
+  "data" : {
+    "docs" : [ {
+      "_id" : "5cd99d4bde30eff6ebccfc15",
+      "name" : "Frodo Baggins",
+      "wikiUrl" : "http://lotr.wikia.com//wiki/Frodo_Baggins",
+      "race" : "Hobbit",
+      "birth" : "22 September ,TA 2968",
+      "gender" : "Male",
+      "death" : "Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",
+      "hair" : "Brown",
+      "height" : "1.06m (3'6\")",
+      "realm" : null,
+      "spouse" : null
+    } ],
+    "total" : 1,
+    "limit" : 1000,
+    "offset" : 0,
+    "page" : 1,
+    "pages" : 1
+  }
+}, {
+  "id" : -8149317049074237393,
+  "source" : "The Lord of the Rings Api",
+  "timestamp" : "2026-09-29T14:31:37.121806200",
+  "data" : {
+    "docs" : [ {
+      "_id" : "5cd99d4bde30eff6ebccfc15",
+      "name" : "Frodo Baggins",
+      "wikiUrl" : "http://lotr.wikia.com//wiki/Frodo_Baggins",
+      "race" : "Hobbit",
+      "birth" : "22 September ,TA 2968",
+      "gender" : "Male",
+      "death" : "Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",
+      "hair" : "Brown",
+      "height" : "1.06m (3'6\")",
+      "realm" : null,
+      "spouse" : null
+    } ],
+    "total" : 1,
+    "limit" : 1000,
+    "offset" : 0,
+    "page" : 1,
+    "pages" : 1
+  }
+}, {
+  "id" : 5812992246001780988,
+  "source" : "The Lord of the Rings Api",
+  "timestamp" : "2026-09-29T14:31:47.345725100",
+  "data" : {
+    "docs" : [ {
+      "_id" : "5cd99d4bde30eff6ebccfc15",
+      "name" : "Frodo Baggins",
+      "wikiUrl" : "http://lotr.wikia.com//wiki/Frodo_Baggins",
+      "race" : "Hobbit",
+      "birth" : "22 September ,TA 2968",
+      "gender" : "Male",
+      "death" : "Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",
+      "hair" : "Brown",
+      "height" : "1.06m (3'6\")",
+      "realm" : null,
+      "spouse" : null
+    } ],
+    "total" : 1,
+    "limit" : 1000,
+    "offset" : 0,
+    "page" : 1,
+    "pages" : 1
+  }
+} ]
