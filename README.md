@@ -31,12 +31,12 @@
 ## Используемые инструменты
 - Сетевая часть: `java.net.http`
   - `HttpClient`, `HttpRequest`, `HttpResponse`
-- Парсинг данных: com.fasterxml.jackson 
-  - core, databind, dataformat.csv
-- Параллелизация: java.util.concurrent 
-  - locks, atomic, ScheduledExecutorService, Future
-- Временные интервалы:  java.time 
-  - Duration, LocalDateTime
+- Парсинг данных: `com.fasterxml.jackson` 
+  - `core`, `databind`, `dataformat.csv`
+- Параллелизация: `java.util.concurrent` 
+  - `locks`, `atomic`, `ScheduledExecutorService`, `Future`
+- Временные интервалы: `java.time` 
+  - `Duration`, `LocalDateTime`
 
 ## Используемые API
 - **“The One Api to rule them all”**: информация о вселенной The Lord of the Rings. В качестве endpoint-а была выбрана страница с персонажами
